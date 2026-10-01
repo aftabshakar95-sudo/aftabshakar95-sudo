@@ -1,18 +1,17 @@
-<div align="center">
-  
-# 👨‍💻 Aftab Ahmad
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aftab+Ahmad;Software+Engineering+Student;Full-Stack+Developer;Game+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+</h1>
 
-<img src="https://i.imgur.com/YOUR-IMAGE-LINK.jpg" alt="Aftab Ahmad" width="200" style="border-radius: 50%; border: 4px solid #0891b2;"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aftabshakar95-sudo&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aftabshakar95-sudo?label=Followers&style=flat-square&color=764ba2" alt="Followers" />
+</p>
 
-### Software Engineering Student | Full-Stack Developer | Problem Solver
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=Building+Innovative+Solutions;Passionate+about+Clean+Code;Always+Learning+New+Tech)](https://git.io/typing-svg)
-
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-aftab.shakar95%40gmail.com-red?style=flat&logo=gmail)](mailto:aftab.shakar95@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://github.com/aftabshakar95-sudo/portfolio">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-667eea?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -20,143 +19,111 @@
 
 ```typescript
 const aftab = {
-    location: "Pakistan 🇵🇰",
-    role: "Software Engineering Student",
-    education: "Bachelor of Science in Software Engineering",
-    currentFocus: ["Full-Stack Development", "API Design", "Cloud Computing"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    lifePhilosophy: "Code is poetry written in logic"
+    location: "Lahore, Pakistan 🇵🇰",
+    education: "BS Software Engineering @ UET Lahore",
+    currentSemester: "3rd",
+    role: "Full-Stack Developer & Game Enthusiast",
+    
+    expertise: [
+        "Building visually polished web applications",
+        "Game development with ASP.NET",
+        "Database design & optimization",
+        "Custom animated UI components"
+    ],
+    
+    philosophy: "Learn by shipping real projects alongside coursework 🚀",
+    
+    currentlyLearning: ["MERN Stack", "Advanced Database Systems", "Digital Logic Design"],
+    
+    funFact: "I build games with CSS animations and database-driven RPG systems! 🎮"
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 💫 Quick Highlights
-
-- 🔭 Currently working on **RESTful APIs** with ASP.NET Core
-- 🌱 Learning **Microservices Architecture** and **Cloud Technologies**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **C#, .NET, Web Development**
-- ⚡ Fun fact: **I love turning coffee into code!** ☕➡️💻
-
-<br clear="right"/>
-
 ---
 
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
+## 💻 Tech Stack
 
 ### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
 ### Frameworks & Libraries
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</p>
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
-
-</div>
+### Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Core Competencies
 
-<div align="center">
-
-### 🎯 Student API
-[![Repo](https://img.shields.io/badge/Repository-View_on_GitHub-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/StudentAPI)
-
-A robust RESTful API built with ASP.NET Core for comprehensive student information management.
-
-**✨ Key Features:**
-- 🔐 Secure CRUD operations
-- 📝 RESTful API design principles
-- 🎨 Clean architecture patterns
-- ⚡ Optimized performance
-
-**🛠️ Tech Stack:** `ASP.NET Core` `C#` `.NET 10.0` `Entity Framework` `SQL Server`
-
----
-
-### 🌟 Developer Profile
-[![Repo](https://img.shields.io/badge/Repository-View_on_GitHub-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/yourusername)
-
-Professional GitHub profile showcasing Markdown expertise and modern development practices.
-
-**💡 Highlights:**
-- 📱 Responsive design
-- 🎨 Beautiful UI/UX
-- 📊 Dynamic statistics
-- 🔥 Animated elements
-
-**🛠️ Tech Stack:** `Markdown` `Git` `GitHub` `HTML/CSS`
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="50%">
+<td width="50%">
 
-**🎓 Bachelor of Science**  
-**Software Engineering**  
-[Your University Name]  
-📅 Expected Graduation: [Year]
+### 🗄️ Database & Backend
+- Relational database design & normalization
+- T-SQL stored procedures & triggers
+- Repository & Service patterns
+- Layered architecture design
+- EF Core migrations & optimization
 
 </td>
-<td align="center" width="50%">
+<td width="50%">
 
-**🏆 Certifications**  
-✅ Git & GitHub (Lab 01)  
-🔄 Version Control Fundamentals  
-📚 More coming soon...
+### 🎨 Frontend & UI
+- Custom CSS animations
+- Interactive UI components
+- Responsive web design
+- Game UI development
+- No-framework styling mastery
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💡 Software Engineering
+- Object-oriented programming (C#)
+- Polymorphism & inheritance
+- Multi-project solution structure
+- Digital logic circuit design
+- Algorithm implementation
+
+</td>
+<td width="50%">
+
+### 🛠️ Development Tools
+- Debugging complex applications
+- Version control with Git
+- Docker containerization
+- RESTful API development
+- Database query optimization
 
 </td>
 </tr>
@@ -164,109 +131,149 @@ Professional GitHub profile showcasing Markdown expertise and modern development
 
 ---
 
-## 🌱 Currently Learning
+## 🎮 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-```mermaid
-graph LR
-    A[Current Skills] --> B[ASP.NET Core]
-    A --> C[Microservices]
-    A --> D[Cloud Tech]
-    B --> E[Advanced Patterns]
-    C --> F[Docker & K8s]
-    D --> G[Azure/AWS]
-    E --> H[Expert Level]
-    F --> H
-    G --> H
+### 🗡️ [RealmOfLegends](https://github.com/aftabshakar95-sudo)
+**Dark Fantasy RPG Web Game**
+
+`ASP.NET Core MVC` `Entity Framework` `SQL Server`
+
+🎯 Turn-based combat system  
+🛒 Dynamic shop & inventory  
+🎨 Custom animated UI  
+🏗️ Repository/Service pattern architecture
+
+</td>
+<td width="50%">
+
+### ⚔️ [Shinobi Arena](https://github.com/aftabshakar95-sudo)
+**Browser Combat Game**
+
+`ASP.NET MVC` `CSS Animations`
+
+🥷 CSS-drawn characters  
+⚡ Animated attack types  
+📊 Player progression system  
+🎮 Level-based combat
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏦 [NexaBank](https://github.com/aftabshakar95-sudo)
+**Banking Management System**
+
+`ASP.NET Core MVC` `SQL Server`
+
+👥 Customer management  
+💰 Transaction processing  
+📊 Loan & reporting modules  
+🎨 Custom dark-themed UI
+
+</td>
+<td width="50%">
+
+### 🎨 [PhantomInk](https://github.com/aftabshakar95-sudo)
+**Gesture-Controlled Drawing App**
+
+`Python` `Flask` `MediaPipe`
+
+✋ Hand tracking with webcam  
+🎯 Gesture debouncing  
+✨ Particle trail effects  
+📐 Spline smoothing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aftabshakar95-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aftabshakar95-sudo&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=ffa500&currStreakLabel=764ba2" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabshakar95-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aftabshakar95-sudo&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=ffa500" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aftabshakar95-sudo&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Software Engineering**  
+🏛️ University of Engineering and Technology (UET), Lahore  
+📚 Currently in 3rd Semester
+
+**Relevant Coursework:**
+- 💾 Databases
+- 🧩 Object-Oriented Programming
+- ⚡ Digital Logic Design
+- 📐 Calculus & Mathematics
+
+---
+
+## 🌟 What I'm Up To
+
+```javascript
+const currentFocus = {
+    🎯 building: "Interactive web applications with MERN stack",
+    📖 learning: "Advanced database optimization & system design",
+    🎮 creating: "Browser-based games with complex mechanics",
+    💡 exploring: "Computer vision & AI integration",
+    🚀 goal: "Ship polished projects that solve real problems"
+};
 ```
 
-</div>
+---
 
-- 🏗️ **Advanced ASP.NET Core Patterns** - Design patterns and best practices
-- 🔄 **Microservices Architecture** - Building scalable distributed systems
-- ☁️ **Cloud Technologies** - Azure and AWS fundamentals
-- 🚀 **DevOps & CI/CD** - Automation and deployment pipelines
-- 🧪 **Unit Testing** - TDD and testing best practices
+## 💼 Let's Connect!
+
+<p align="center">
+  <a href="mailto:aftabshakar95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/aftabshakar95-sudo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/aftab-ahmad-99a0343a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="tel:+923094137386">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" />
+</p>
 
 ---
 
-## 💼 Professional Interests
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</p>
 
-<div align="center">
-
-| 🌐 Web Development | 🔌 API Design | 🏛️ Software Architecture |
-|:------------------:|:-------------:|:------------------------:|
-| Building responsive and performant web applications | Crafting RESTful and GraphQL APIs | Designing scalable system architectures |
-
-| 🤝 Open Source | 🎨 UI/UX | 🔐 Security |
-|:--------------:|:--------:|:-----------:|
-| Contributing to community projects | Creating beautiful interfaces | Implementing secure practices |
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-### 💬 Get in Touch
-
-<a href="mailto:aftab.shakar95@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/yourusername">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-### 📧 Email: aftab.shakar95@gmail.com
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😄 Here's a Joke for You!
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
-
----
-
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
-
-### ⭐ Show Some Love!
-
-If you like my work, consider giving a ⭐ to my repositories!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-**Happy Coding! 🚀**
-
-</div>
-
----
-
-<div align="center">
-  
-**💙 Thanks for visiting my profile!**
-
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-💚-green?style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+build+something+amazing+together!+%F0%9F%92%AA" alt="Footer Typing SVG" />
+</p>
